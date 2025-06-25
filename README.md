@@ -1,6 +1,6 @@
 # Arduino UNO Metronome
 
-This project was a result of a summer research internship opportunity.
+This project was a result of a summer research internship between Bakersfield College and California State University Bakersfield.
 
 Inspired by [another Arduino metronome project](https://projecthub.arduino.cc/mircemk/diy-simple-arduino-metronome-eabd20). The code here is modified to suit the different materials used. Here is [a video demonstration](https://drive.google.com/file/d/1OBexGvnXHa3EdNXaehNujgZdV5Elhmtf/view).
 
