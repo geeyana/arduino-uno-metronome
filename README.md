@@ -1,5 +1,5 @@
 # 🎶 Arduino UNO Metronome
-> Contributors: [Gianna Nicomedes](https://github.com/geeyana), Samreen Sodhi
+> **Contributors:** [Gianna Nicomedes](https://github.com/geeyana), Samreen Sodhi
 ---
 
 ## 📋 Overview 
